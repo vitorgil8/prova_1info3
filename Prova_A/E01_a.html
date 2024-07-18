@@ -11,8 +11,9 @@
     const nota2 = parseFloat(prompt("Informe a nota do segundo trimestre: "));
 
     //PROCESSAMENTO
-
+    const media = (nota1 + nota2) / 2;
+    const pontosNecessarios = 18 - (nota1 + nota2);
 
     //SAÍDA
-
+    alert(`Média atual: ${media.toFixed(2)}\nPontos necessários no último trimestre: ${pontosNecessarios}`);
 </script>
