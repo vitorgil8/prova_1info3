@@ -1,4 +1,4 @@
-# 1INFO1 - Prova [1º Trimestre]
+# 1INFO3 - Prova [1º Trimestre]
 
 ## As provas estão divididas em **Prova A** e **Prova B**.
 
